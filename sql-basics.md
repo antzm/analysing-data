@@ -53,3 +53,38 @@ FROM table3
 ORDER BY column5 DESC, column1, column8 DESC;
 
 ```
+
+## WHERE
+
+The `WHERE` statement is used for filtering the data and thus, it dispalys only the subsets of the data that meet ceertain criteria.
+
+```SQL
+SELECT column1, column5
+FROM table8
+WHERE column1 <= 50
+```
+
+## Operators
+
+### Comparison Operators
+
+
+Comparison Operator | Meaning
+--------------------|--------
+\= | equal to
+\!= | not equal to
+\> | greater than
+\< | less than
+\>= | greater than or equal to
+\<= | less than or equal to
+
+
+### Arithmetic Operators
+
+Arithmetic Operators| Meaning
+--------------------|-------
+\+ | Addition
+\- | Subtraction
+\* | Multiplication
+\/ | Division
+
