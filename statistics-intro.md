@@ -10,3 +10,6 @@
 6.	So, let’s use the above metaphor to remember that in statistics, all over the world, everything that refers to the population is always written with Greek letters, while everything that refers to the sample, is always written with English letters.
 7.	Population: μ = population mean, σ = population variance, ρ = population correlation
 8.	Sample: x bar (x with bar on top) = sample mean, s = sample variance, r = sample correlation
+9. The population parameters, μ and σ, are actually estimates of the unknown population mean and the unknown population variance. So, μ and σ, are just estimates that are caluclated based on the sample or the samples that we have collected from the population.
+10. For this reason, the sample collection and the sample size are very important, because they affect positively or negatively the information we have about the population. If we are using a wrong sampling technique, we will always have a wrong idea about the population we are interested in and thus, if we have to make a decision about that population, our decision would be wrong, although we may think that we working towards the right direction.
+
