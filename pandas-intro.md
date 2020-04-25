@@ -24,6 +24,8 @@ df.to_csv('file_name.csv', index = False) # Saves the dataframe as file_name.csv
 
 ```python
 
+df # Prints the dataframe
+
 df.head() # Prints the first 5 rows of the dataframe (defult = 5 rows)
 
 df.head(15) # Prints the first 15 rows of the dataframe
@@ -32,6 +34,14 @@ df.tail() # Prints the last 5 rows of the dataframe (default = 5 rows)
 
 df.tail(15) # Prints the last 15 rows of the dataframe
 
+df.sample(10) # Prints 10 random lines of the dataaframe, i.e. not sequensial
+
+df[['column_1,', 'column_8', 'column_15']] # Prints only the selected columns
+
+df.column_3 # Prints only the slected column, i.e. it returns a series
+#or
+df['column_3'] # Prints only the slected column, i.e. it returns a series
+
 df.info() # Prints a summary of the dataframe
 
 df.describe() # Prints decriptive statistics for each column of the dataframe
@@ -39,6 +49,15 @@ df.describe() # Prints decriptive statistics for each column of the dataframe
 df.nunique() # Prints the number of unique values in each column
 
 ```
+
+## Filtering values
+
+```python
+
+df[df.column_5 == 'my_value'] # Returns only the rows of tha dataset that have the value 'my_value' in column_5
+
+```
+
 
 ## Calculate the mean of a column
 
