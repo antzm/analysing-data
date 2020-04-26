@@ -54,7 +54,11 @@ df.nunique() # Prints the number of unique values in each column
 
 ```python
 
-df[df.column_5 == 'my_value'] # Returns only the rows of tha dataset that have the value 'my_value' in column_5
+df[df.column_5 == 'my_value'] # Returns only the rows of the dataset that have the value 'my_value' in column_5
+df[df.column_2 > 'my_value'] # Returns only the rows of the dataset where column_2 is greater than 'my_value'
+df[df.column_1 >= 'my_value'] # Returns only the rows of the dataset where column_1 is greater than or equal to 'my_value'
+df[df.column_8 < 'my_value'] # Returns only the rows of the dataset where column_8 is less than 'my_value'
+df[df.column_3 <= 'my_value'] # Returns only the rows of the dataset where column_3 is less than or equal to 'my_value'
 
 ```
 
