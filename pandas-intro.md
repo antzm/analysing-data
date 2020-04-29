@@ -8,20 +8,31 @@ import pandas as pd
 
 ```
 
-## Create a Pandas Series
+## Creating a Pandas Series
 ```python
 
-pet_ages = pd.Series(data = [3, 8, 1, 1] , index = ['cat', 'dog', 'hamster', 'fish'])
+pet_ages = pd.Series(data = [3, 8, 1, 1], index = ['cat', 'dog', 'hamster', 'fish'])
+
+# or 
+pet_ages = pd.Series([3, 8, 1, 1], ['cat', 'dog', 'hamster', 'fish'])
 
 # Checking if an idex exists
 check_dog = 'dog' in pet_ages
 print(check_dog)
 # True
 
+
+
 ```
 
 ## Accessing a Pandas Series
 ```python
+pet_ages
+# cat 3 
+# dog 8
+# hamster 1
+# fish 1
+
 pet_ages['dog']
 # 8
 
@@ -36,9 +47,29 @@ pet_ages[[1, 3]]
 # dog 8
 # fish 1
 
+pet_ages[-1]
+# fish 1
+
 ```
 
+## Making changes to a Panda Series
+```python
 
+pet_ages['dog'] = 12
+pet_ages['dog']
+# dog 12
+
+pet_ages['dog'] = pet_ages['dog'] + 2
+pet_ages['dog']
+# dog 14
+
+print(pet_agess + 1)
+# cat 4
+# dog 9
+# hamster 2
+# fish 2
+
+```
 
 
 ## Import a CSV file and save a CSV file
