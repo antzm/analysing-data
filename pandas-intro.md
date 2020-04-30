@@ -52,22 +52,30 @@ pet_ages[-1]
 
 ```
 
-## Making changes to a Panda Series
+## Making changes and calculations to a Panda Series
 ```python
-
+# Changing the Dog's age
 pet_ages['dog'] = 12
 pet_ages['dog']
 # dog 12
 
+# Adding 2 to the Dog's age
 pet_ages['dog'] = pet_ages['dog'] + 2
 pet_ages['dog']
 # dog 14
 
+# Only print the ages plus 1
 print(pet_agess + 1)
 # cat 4
 # dog 9
 # hamster 2
 # fish 2
+
+# Boolean select certain ages
+older_pets = pet_ages[pet_ages > 2]
+older_pets
+# cat 4
+# dog 9
 
 ```
 
