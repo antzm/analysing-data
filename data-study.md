@@ -9,3 +9,10 @@ Study Time:  1 Hour
 Practice Time:  30 Minutes  
 	* Time Series Data  
 
+## Day 2  
+
+Study Time:  30 minutes  
+	* Analysing Time Series Data 
+Practice Time:  15 Minutes  
+	* Analysing Time Series Data  
+
