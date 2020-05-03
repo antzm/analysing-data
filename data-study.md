@@ -16,3 +16,18 @@ Study Time:  30 minutes
 Practice Time:  15 Minutes  
 	* Analysing Time Series Data  
 
+## Dat 3
+
+Study Time: 2 Hours
+	* Pandas Data Frames
+		* Inner Join
+		* Outer Join
+		* Left Join
+		* Right Join
+Practise Time: 1 Hour  
+	* Pandas Data Frames
+		* Inner Join
+		* Outer Join
+		* Left Join
+		* Right Join
+
