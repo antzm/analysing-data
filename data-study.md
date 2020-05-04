@@ -16,7 +16,7 @@ Study Time:  30 minutes
 Practice Time:  15 Minutes  
 	* Analysing Time Series Data  
 
-## Dat 3
+## Day 3
 
 Study Time: 2 Hours
 	* Pandas Data Frames
@@ -31,3 +31,8 @@ Practise Time: 1 Hour
 		* Left Join
 		* Right Join
 
+## Day 4
+Study Time: 1 Hours
+	* Manipulating dataframes with Pandas
+Practise Time: 30 Minutes  
+	* Manipulating dataframes with Pandas
