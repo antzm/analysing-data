@@ -32,7 +32,17 @@ Practise Time: 1 Hour
 		* Right Join
 
 ## Day 4
+
 Study Time: 1 Hours
 	* Manipulating dataframes with Pandas
 Practise Time: 30 Minutes  
 	* Manipulating dataframes with Pandas
+
+## Day 5
+
+Study Time: 3 Hours
+	* Hypothesis Testing
+	* PyTorch Introduction
+Practise Time: 1 Hour
+	* Hypothesis Testing
+
