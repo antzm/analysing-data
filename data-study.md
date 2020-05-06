@@ -46,3 +46,10 @@ Study Time: 3 Hours
 Practise Time: 1 Hour
 	* Hypothesis Testing
 
+## Day 6
+
+Study Time: 1 Hour
+	* Hypothesis Testing
+Practise Time: 30 Minutes
+	* Hypothesis Testing
+
