@@ -53,3 +53,13 @@ Study Time: 1 Hour
 Practise Time: 30 Minutes
 	* Hypothesis Testing
 
+## Day 7
+
+Study Time: 1.5 Hour
+	* Pandas Dataframes
+	* PyTorch
+Practise Time: 30 Minutes
+	* Pandas Dataframes
+	* PyTorch
+
+	
