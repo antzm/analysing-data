@@ -62,4 +62,10 @@ Practise Time: 30 Minutes
 	* Pandas Dataframes
 	* PyTorch
 
-	
+## Day 8
+Study Time: 3 Hours
+	* Trying to find solutions on some unbelievable Microsoft issues
+Practise Time: 2 Hours
+	* Trying to find suuport for those unbelievable Microsoft issues
+Thanks Bill!!!
+
