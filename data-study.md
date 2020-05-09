@@ -69,3 +69,10 @@ Practise Time: 2 Hours
 	* Trying to find suuport for those unbelievable Microsoft issues
 Thanks Bill!!!
 
+## Day 9
+Study Time: 3 Hours
+	* Probablility and Statistics
+Practise Time: 1 Hour
+	* Probablility and Statistics Exercises
+
+	
