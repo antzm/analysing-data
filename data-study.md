@@ -75,4 +75,8 @@ Study Time: 3 Hours
 Practise Time: 1 Hour
 	* Probablility and Statistics Exercises
 
-	
+## Day 10
+Study Time: 1 Hour
+	* Calculating the Longest Common Subsequence (LCS) between two texts
+Practise Time: 1 Hour
+	* Calculating the Longest Common Subsequence (LCS) between two texts
