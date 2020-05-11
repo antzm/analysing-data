@@ -80,3 +80,11 @@ Study Time: 1 Hour
 	* Calculating the Longest Common Subsequence (LCS) between two texts
 Practise Time: 1 Hour
 	* Calculating the Longest Common Subsequence (LCS) between two texts
+
+## Day 11
+Study Time: 1 Hour
+	* Hypothesis Testing Examples
+Practise Time: 1 Hour
+	* Hypothesis Testing Example
+
+	
