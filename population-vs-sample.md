@@ -30,3 +30,10 @@ But this study is interested only for the people who are above 18 years old, so 
 Thus, the exact definition of the populations would be:
 	* The population on the north part of the country, which is 18 years old and above.
 	* The population on the south part of the country, which is 18 years old and above.
+
+## Population is Unknown - Sample is Known
+
+In the vast majority of cases, population is something unknown but sample is always something known. 
+
+There are though, a few rare instances, when we get to know the population and this an excellent oppurtunity for the statisticians, data-anasysts and data-scientists to see how well their inferences are reflected to the actual population.
+

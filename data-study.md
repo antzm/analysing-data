@@ -87,4 +87,10 @@ Study Time: 1 Hour
 Practise Time: 1 Hour
 	* Hypothesis Testing Example
 
+## Day 12
+Study Time: 1 Hour
+	* Analysing a Dataset
+Practise Time: 30 Minutes
+	* Analysing a Dataset
+
 	
