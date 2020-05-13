@@ -93,4 +93,8 @@ Study Time: 1 Hour
 Practise Time: 30 Minutes
 	* Analysing a Dataset
 
-	
+Day 13
+Study Time: 1.5 Hours
+	* PyTorch vs Tensorflow
+Practise Time: 45 Minutes
+	* PyTorch vs Tensorflow
