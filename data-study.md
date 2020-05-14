@@ -98,3 +98,11 @@ Study Time: 1.5 Hours
 	* PyTorch vs Tensorflow
 Practise Time: 45 Minutes
 	* PyTorch vs Tensorflow
+
+Day 14
+Study Time: 3 Hours
+	* PyTorch
+Practise Time: 1 Hour
+	* PyTorch
+
+	
