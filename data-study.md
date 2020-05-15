@@ -99,10 +99,15 @@ Study Time: 1.5 Hours
 Practise Time: 45 Minutes
 	* PyTorch vs Tensorflow
 
-Day 14
+## Day 14
 Study Time: 3 Hours
 	* PyTorch
 Practise Time: 1 Hour
 	* PyTorch
 
-	
+## Day 15
+Study Time: 2 Hours
+	* Softmax output function (normalized exponential function) 
+	* Sigmoid, Tanh and ReLU activation functions
+Practise Time: 1 Hour
+
