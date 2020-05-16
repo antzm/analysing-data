@@ -111,3 +111,10 @@ Study Time: 2 Hours
 	* Sigmoid, Tanh and ReLU activation functions
 Practise Time: 1 Hour
 
+## Day 16
+Study Time: 3 Hours
+	* CNN and RNN overview
+Practise Time: 1 Hour
+	* CNN and RNN overview
+
+	
