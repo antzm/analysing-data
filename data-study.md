@@ -117,4 +117,9 @@ Study Time: 3 Hours
 Practise Time: 1 Hour
 	* CNN and RNN overview
 
+## Day 17
+Study Time: 1 Hour
+	* Reinforcment Learning
+Practise Time: 5 Hours
+	* Reinforcment Learning
 	
