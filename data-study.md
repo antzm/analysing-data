@@ -122,4 +122,9 @@ Study Time: 1 Hour
 	* Reinforcment Learning
 Practise Time: 5 Hours
 	* Reinforcment Learning
-	
+
+## Day 19
+Study Time: 1 Hour
+	* SageMaker notebooks
+Practise Time: 5 Hours
+	* SageMaker notebooks
