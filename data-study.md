@@ -123,8 +123,15 @@ Study Time: 1 Hour
 Practise Time: 5 Hours
 	* Reinforcment Learning
 
-## Day 19
+## Day 18
 Study Time: 1 Hour
 	* SageMaker notebooks
 Practise Time: 5 Hours
 	* SageMaker notebooks
+
+## Day 19
+Study Time: 2 Hour
+	* AWS ML Services
+Practise Time: 1 Hours
+	* AWS ML Services
+
