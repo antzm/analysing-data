@@ -79,6 +79,17 @@ older_pets
 
 ```
 
+## Creating Pandas DataFrames
+
+```python
+# Creating DataFrame from a dictionary of Pandas Series 
+stat_info = {'Country 1' : pd.Series(data = [245, 25, 55], index = ['var1', 'var5', 'var8']),
+             'Country 2' : pd.Series(data = [40, 110, 500, 45], index = ['var5', 'var7', 'var8', 'var15'])}
+
+df = pd.stat_info
+```
+
+
 
 ## Import a CSV file and save a CSV file
 
