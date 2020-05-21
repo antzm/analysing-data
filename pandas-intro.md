@@ -81,6 +81,8 @@ older_pets
 
 ## Creating Pandas DataFrames
 
+Firstly, we could create a DataFrame from a dictionary of Pandas Series:
+
 ```python
 # Creating DataFrame from a dictionary of Pandas Series 
 stat_info = {'Country 1' : pd.Series(data = [245, 25, 55], index = ['var1', 'var5', 'var8']),
@@ -88,7 +90,15 @@ stat_info = {'Country 1' : pd.Series(data = [245, 25, 55], index = ['var1', 'var
 
 df = pd.stat_info
 ```
+Or, in a similar wat, we could create a DataFrame ithout indexes:
 
+```Python
+# Creating DataFrame from a dictionary of Pandas Series without indexes
+stat_info = {'Country 1' : pd.Series([245, 25, 55]),
+             'Country 2' : pd.Series([40, 110, 500, 45])}
+
+df = pd.stat_info
+```
 
 
 ## Import a CSV file and save a CSV file
