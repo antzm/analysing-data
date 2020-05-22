@@ -100,6 +100,16 @@ stat_info = {'Country 1' : pd.Series([245, 25, 55]),
 df = pd.stat_info
 ```
 
+We could also create a DataFrame from a dictionary of lists:
+
+```Python
+# Using a dictionary of lists
+data = {'name_1' : [10, 25, 30],
+        'name_2' : [15, 20, 35]}
+
+# We create a DataFrame 
+df = pd.DataFrame(data)
+```
 
 ## Import a CSV file and save a CSV file
 
