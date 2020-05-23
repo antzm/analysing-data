@@ -123,6 +123,14 @@ df.to_csv('file_name.csv', index = False) # Saves the dataframe as file_name.csv
 
 ```
 
+Specifying which row of the CSV file contains the header:
+
+```python
+df = pd.read_csv('file_name.csv', header=1)
+df.head()
+```
+
+
 ## Print information about a dataframe
 
 ```python
