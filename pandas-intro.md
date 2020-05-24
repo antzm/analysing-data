@@ -123,6 +123,16 @@ df.to_csv('file_name.csv', index = False) # Saves the dataframe as file_name.csv
 
 ```
 
+Extracting a zipped CSV file:
+
+```Python
+import zipfile
+
+# Extractimg all the contents of the zip file to the working folder
+with zipfile.ZipFile('file_name.zip', 'r') as myzip:
+    myzip.extractall()
+```
+
 Specifying which row of the CSV file contains the header:
 
 ```python
