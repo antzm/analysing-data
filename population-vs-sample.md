@@ -37,3 +37,9 @@ In the vast majority of cases, population is something unknown but sample is alw
 
 There are though, a few rare instances, when we get to know the population and this an excellent oppurtunity for the statisticians, data-anasysts and data-scientists to see how well their inferences are reflected to the actual population.
 
+The only cases when we actually know the population are during:
+	* Elections
+	* Referendums
+
+The exit polls that take place during the same day as the elections or the referndums, are the samples from where we try to estimate what the population would actually vote and later that day, we get to see what the population has actually voted and we can see how accurate the exit poll predictions were.
+
