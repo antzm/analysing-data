@@ -41,5 +41,13 @@ The only cases when we actually know the population are during:
 	* Elections
 	* Referendums
 
-The exit polls that take place during the same day as the elections or the referndums, are the samples from where we try to estimate what the population would actually vote and later that day, we get to see what the population has actually voted and we can see how accurate the exit poll predictions were.
+The exit polls, which take place during the same day as the elections or the referndums, are the samples from where we try to estimate what the population would actually vote and later that day, we get to see what the population has actually voted and we can see how accurate the exit polls' predictions were.
+
+In this case, the population are not all te registered the voters but more specifically, the voters who would actullay vote during the election day because only those people will determine the election's results.
+
+As the voters change their opinion from time to time, the samples taken a few days ago (i.e. the gallops where samples of the voters were asked about the political party that they plan to vote) are not representative of the actual population, as it was defined above.
+
+On the other hand, the exit polls truly represent a sampling of the population, because the voters are asked after they have already voted and based on that sample, we get predictions about the final results.
+
+And actually, after a few hours we have one of the very rare circumnstances where we can actually test the sampling tecnique and the statistical methods used to predict the elections' results.
 
