@@ -51,3 +51,7 @@ On the other hand, the exit polls truly represent a sampling of the population, 
 
 And actually, after a few hours we have one of the very rare circumnstances where we can actually test the sampling tecnique and the statistical methods used to predict the elections' results.
 
+For this reason, it is very important for the companies that perform the exit polls to estimate their results as close as possible to the actual results, as this provides an isgight for the quality of work done in each company.  
+
+Othewise, without any actual results to test -once in a while- our estimations, there's no proof that the statictical process we use is actually the best one suited for the particular situation.
+
