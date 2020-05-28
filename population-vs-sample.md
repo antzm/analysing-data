@@ -31,6 +31,22 @@ Thus, the exact definition of the populations would be:
 	* The population on the north part of the country, which is 18 years old and above.
 	* The population on the south part of the country, which is 18 years old and above.
 
+## Example 3
+
+Crop scientists are always producing new varieties of crops with the purpose to distinguish the best varieties for future cultivation
+
+In this case, we are interesting to compare the current variety that is being cultivated by the farmers with the new variety that we expect to cultivate in the future.
+
+Thus, we will be comparing two populations:
+
+Poluation 1 is the population that corresponds to every plant of the current variety that is being cultivated or that it will be cultivated by the farmer.
+
+Population 2 is the population that corresponds to every plant of the new variety that is currently being cultivated by the scientist or that it will be cultivated by the farmers in the future.
+
+So, in this case we will actually be studing and comparing two sets of seeds that correspond to different varieties.
+
+The samples are the seeds that we will cultivate in order to mesaure their production, while the populations are the future plants that will emerge from the seeds that we will cultivate in the future.
+
 ## Population is Unknown - Sample is Known
 
 In the vast majority of cases, population is something unknown but sample is always something known. 
