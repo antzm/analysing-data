@@ -38,3 +38,33 @@
 
 11. One of the very few cases where we can check if the estimates that we have calculate for a population are actually correct, is during an election. And to be more precise, during the day of the elections, when we can actually see how close to the reality were the exit-polls. This is one of the very few times where the work of the statistician is actually tested for it's accuracacy in the real world. As we understand, if the statisticians, data scientsts, or data analyst who are responsible for those exit polls, choose a wrong sampling tecnique and / or a wrong analysis of the collected data, then their results will be far away from the real outcome of the elections.
 
+12. Data Types
+	* Quantitative Data
+		* Continuous Quantitative Data
+		* Discrete Quantitative Data
+	* Categorical Data
+		* Ordinal Categorical Data
+		* Nominal Categorical Data
+
+## Quantitative Data
+
+Refers to data thatn can be measured and expressed in numbers. i.e.
+	* Height
+	* Weight
+	* Speed
+	* Volume
+	* Income
+	* Population
+	* etc
+
+## Categorical Data
+
+Refers to data that cannot be measured and expressed in numbers. i.e.
+	* Colour
+	* Character
+	* Creativity
+	* Marital status
+	* Gender
+	* Occupation
+	* etc.
+
