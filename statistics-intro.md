@@ -57,6 +57,26 @@ Refers to data thatn can be measured and expressed in numbers. i.e.
 	* Population
 	* etc
 
+Quantitative Data
+	* Continuous Quantitative Data
+	* Discrete Quantitative Data
+
+### Continuous Quantitative Data
+
+When the data can be expressed in decimal numbers
+	* Speed
+	* Income
+	* Height
+	* Weight
+
+### Discrete Quantitative Data
+
+When the data can be expressed only as natural numbers
+	* Number of children
+	* Number of people
+	* Number of discrete items
+
+
 ## Categorical Data
 
 Refers to data that cannot be measured and expressed in numbers. i.e.
@@ -67,4 +87,21 @@ Refers to data that cannot be measured and expressed in numbers. i.e.
 	* Gender
 	* Occupation
 	* etc.
+
+Categorical Data
+	* Ordinal Categorical Data
+	* Nominal Categorical Data
+
+### Ordinal Categorical Data
+
+When the data have a logical order
+	* Education (Highshool, College, University, Msc, Phd)
+	* School grades, expressed as letters (A-, A, A+)
+
+### Nominal Categorical Data
+
+When there is no order logical order in the data
+	* Gender
+	* Colour
+	* Occupation
 
