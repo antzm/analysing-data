@@ -57,6 +57,8 @@ Refers to data thatn can be measured and expressed in numbers. i.e.
 	* Population
 	* etc
 
+There are two subcatigories of Quantitative Data:
+
 Quantitative Data
 	* Continuous Quantitative Data
 	* Discrete Quantitative Data
@@ -87,6 +89,8 @@ Refers to data that cannot be measured and expressed in numbers. i.e.
 	* Gender
 	* Occupation
 	* etc.
+
+There are two subcatigories of Categorical Data:
 
 Categorical Data
 	* Ordinal Categorical Data
