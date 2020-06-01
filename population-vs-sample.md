@@ -71,3 +71,15 @@ For this reason, it is very important for the companies that perform the exit po
 
 Othewise, without any actual results to test -once in a while- our estimations, there's no proof that the statictical process we use is actually the best one suited for the particular situation.
 
+## It's all Greek to me...
+
+This phrase is used when someone doesn't understand something at all. This phrase could be of great importance in statistics because it reminds us that, as far as the population is concerned, the true knowelede of the population is something that we dond't actually understand and for this reason we could say that the population is all Greek to us...
+
+Now, this may seem pequliar but it worths rembering this phrase because this way it would be easy to combine the letters of the Greek alphabet with the population. This, would help us to always remeber that whenever we meet Greek letters in statistics, then those letters refer always to the population.
+
+Yes! In statistics, all the parameters of the population are always mentioned with Greek letters.
+
+On the other hand, English language is something known to most people, in a similar way that a sample is known to the researchers. And this, helps us to combine the letters in the English alphabet with the sample.
+
+Thus, in statistics, whenever we see English letters we will know that they always refer to a sample and whenever we see Greek letters, we will know that they always refer to the population.
+
