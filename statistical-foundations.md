@@ -11,3 +11,5 @@ Crop scientists were mostly focusing on wheat because is the most important food
 
 So, the crop scientists needed a reliable and realtively easy way to distinguish the best wheat varieties out of the thousands wheat varieties that were cultivated experimentally. Scinetists wanted to assure that the new varities that would be selected and given to the farmers would produce an increased yield, otherwise it wouldn't make any sense to give lesser varieties to the farmers or even similar varieties to the existing ones.
 
+Thus, Sir Ronald Fisher introduced the ANOVA analysis which, with simple calculations that obviously were performed by hand, gave the oppurtunity to the crop scientists to compare simultaneously hundred of varieties and being able to distinguish if there was at least one variety between them that was different from the existing cultivated variety, and then, more tests were perfored to distinguish that variety and find if was a promising variety to be used for future cultivation.
+
