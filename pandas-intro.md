@@ -136,10 +136,26 @@ with zipfile.ZipFile('file_name.zip', 'r') as myzip:
 Specifying which row of the CSV file contains the header:
 
 ```python
+df = pd.read_csv('file_name.csv', header=0) # default and so, "header=0" can be ommited
+df.head()
+```
+
+```python
 df = pd.read_csv('file_name.csv', header=1)
 df.head()
 ```
 
+```python
+df = pd.read_csv('file_name.csv', header=None) # there's no header in the CSV file
+df.head()
+```
+
+Specifying which column of the CSV file will be the index of the dataframe:
+
+```python
+df = pd.read_csv('file_name.csv', index_col='column_name')
+df.head()
+```
 
 ## Print information about a dataframe
 
