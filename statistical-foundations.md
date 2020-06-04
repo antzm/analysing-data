@@ -13,3 +13,7 @@ So, the crop scientists needed a reliable and realtively easy way to distinguish
 
 Thus, Sir Ronald Fisher introduced the ANOVA analysis which, with simple calculations that obviously were performed by hand, gave the oppurtunity to the crop scientists to compare simultaneously hundred of varieties and being able to distinguish if there was at least one variety between them that was different from the existing cultivated variety, and then, more tests were perfored to distinguish that variety and find if was a promising variety to be used for future cultivation.
 
+Othewise, if there no statisically siginificant differences in the ANOVA test, all those varieties were set aside and a new ANOVA test was performed for some other variities in order to find the best varieties for future cultivation.
+
+This ANOVA analysis and a whole new aproach to the statistical methods, set the foundationds for the modern statistics and there many statistical methods that are used today and they have their origin in that age.
+
