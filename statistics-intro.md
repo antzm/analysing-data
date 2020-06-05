@@ -109,3 +109,18 @@ When there is no order logical order in the data
 	* Colour
 	* Occupation
 
+## Descriptive Statistics
+
+We use the following statistical tools to describe our data
+
+### Measures of Center:
+	* Mean
+	* Median
+	* Mode
+
+### Measures of Spread:
+	* Range
+	* Interquartile Range
+	* Variance
+	* Standard Deviation
+
