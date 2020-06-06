@@ -83,3 +83,15 @@ On the other hand, English language is something known to most people, in a simi
 
 Thus, in statistics, whenever we see English letters we will know that they always refer to a sample and whenever we see Greek letters, we will know that they always refer to the population.
 
+Examples:
+
+Population:
+	* μ = population mean
+	* σ = population standard deviation
+	* ρ = population correlation
+
+Sample:
+	* x bar = sample mean
+	* s = sample standard deviation
+	* r = sample correlation
+
